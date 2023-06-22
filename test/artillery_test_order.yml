@@ -1,5 +1,5 @@
 config:
-  target: "http://stylish-1487249420.ap-southeast-1.elb.amazonaws.com"
+  target: 'http://stylish-1487249420.ap-southeast-1.elb.amazonaws.com'
   http:
     pool: 20
   phases:
@@ -7,5 +7,5 @@ config:
       arrivalRate: 40
 scenarios:
   - flow:
-    - get:
-        url: "/api/1.0/order/payments"
+      - get:
+          url: '/api/1.0/order/payments'

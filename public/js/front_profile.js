@@ -59,7 +59,7 @@ if (user_token) {
       add_name.innerHTML = name;
       profile_name.appendChild(add_name);
       if (picture === null || picture === '') {
-      // console.log("use defalut photo")
+        // console.log("use defalut photo")
       } else {
         profile_default_img.remove();
         const add_img = document.createElement('img');

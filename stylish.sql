@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 8.0.19, for osx10.14 (x86_64)
+-- MySQL dump 10.13  Distrib 8.2.4, for osx10.14 (x86_64/arm64)
 --
 -- Host: localhost    Database: stylish
 -- ------------------------------------------------------
--- Server version	8.0.19
+-- Server version	8.2.4
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
